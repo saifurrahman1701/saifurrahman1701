@@ -19,7 +19,4 @@ Let's push the boundaries and drive meaningful change through technology.
 
 ## Get in touch :coffee:
 
-- [Personal Blog](https://sagarviradiya.dev)
-- [Twitter](https://twitter.com/viradiya_sagar)
-- [Medium](https://medium.com/@sagarviradiya)
-- [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+- [LinkedIn](https://www.linkedin.com/in/saifurrahman1701/)
