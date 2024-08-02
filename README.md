@@ -9,7 +9,13 @@
 
 ## About me
 
-Hi there 👋. I’m Sagar Viradiya, a skilled and results-driven Android Developer with a strong background in Android app development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Android ecosystem, I build solutions that are not only functional but also delightful. Besides my 9to5, I love to give back to the community by blogging, speaking, and open-sourcing my ideas. My love for community led me to Google Developer Expert for Android. If I’m not crafting app/library then probably wondering about the universe’s existence.
+I am a Lecturer at the Military Institute of Science and Technology, teaching Data Structures and Algorithms. As a Computer Science and Engineering graduate, I am passionate about software engineering and innovation. I have served as Vice President of the Committee of Research and Development at the MIST Computer Club and gained experience as a Software Engineer Intern at Trust Bank Limited's IT division.
+
+I believe technology can transform lives and create a better future. My mission is to learn, innovate, and inspire others in the field of technology.
+
+"The best way to predict the future is to invent it." - Alan Kay
+
+Let's push the boundaries and drive meaningful change through technology.
 
 ## Get in touch :coffee:
 
