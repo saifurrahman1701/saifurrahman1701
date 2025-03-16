@@ -9,9 +9,11 @@
 
 ## About me
 
-I am a Lecturer at the Military Institute of Science and Technology, teaching Data Structures and Algorithms. As a Computer Science and Engineering graduate, I am passionate about software engineering and innovation. I have served as Vice President of the Committee of Research and Development at the MIST Computer Club and gained experience as a Software Engineer Intern at Trust Bank Limited's IT division.
+I am a Lecturer at United International University (UIU). Previously, I served as a Lecturer at the Military Institute of Science and Technology (MIST).
 
-I believe technology can transform lives and create a better future. My mission is to learn, innovate, and inspire others in the field of technology.
+As a Computer Science and Engineering graduate, I am passionate about software engineering, research, and innovation. I have held leadership roles, including serving as Vice President of the Committee of Research and Development at the MIST Computer Club. Additionally, I gained industry experience as a Software Engineer Intern at Trust Bank Limited's IT division.
+
+I strongly believe that technology has the power to transform lives and create a better future. My mission is to learn, innovate, and inspire others in the field of technology.
 
 "The best way to predict the future is to invent it." - Alan Kay
 
