@@ -1,10 +1,6 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/saifurrahman1701/saifurrahman1701/master/resources/banner1.png" alt="Hello world <p align="center"> 
- Visitor count<br>
- <img src="https://profile-counter.glitch.me/saifurrahman1701/count.svg" />
-</p>
-">
+<img src="https://raw.githubusercontent.com/saifurrahman1701/saifurrahman1701/master/resources/banner1.png" alt="Hello world">
 
 
 ## About me
@@ -21,4 +17,4 @@ Let's push the boundaries and drive meaningful change through technology.
 
 ## Get in touch :coffee:
 
-- [LinkedIn](https://www.linkedin.com/in/saifurrahman1701/)
+- [LinkedIn](https://www.linkedin.com/in/saifurrahman2384/)
